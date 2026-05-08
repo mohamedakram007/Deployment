@@ -3,4 +3,3 @@ uvicorn
 pymongo
 dnspython
 motor
-dir
